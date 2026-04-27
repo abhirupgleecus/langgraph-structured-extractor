@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-core
+langchain-google-genai
+google-generativeai
+
+streamlit
+pydantic
+python-dotenv
+pandas
+tabulate
+rich
